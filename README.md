@@ -20,7 +20,7 @@ I started in QA, where I learned how products break, and customer support, where
 - The AI reads the replies in the thread and works out what each person is asking for
 - I chose email on purpose, so people don't have to learn a new app
 
-👉 [Try the interactive walkthrough](https://slashcal-showcase-production.up.railway.app)
+👉 [Try the live app](https://schedulesync-web-production.up.railway.app) · [See the interactive walkthrough](https://slashcal-showcase-production.up.railway.app)
 
 <img src="img/slashcal-thread.jpg" width="600" alt="SlashCal email scheduling screen">
 
