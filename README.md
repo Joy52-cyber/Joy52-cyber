@@ -43,6 +43,10 @@ Built the computer vision for a pool coaching app at Eyeball Games. It finds eve
 - Trained my own ball detection model (YOLO11), about 90% of balls found with no false detections
 - Set a rule before training: a new model only goes live if it does better than the old one
 
+👉 [See how it works](https://joy52-cyber.github.io/joymie-portfolio/poolcoach/)
+
+<img src="img/poolcoach.jpg" width="600" alt="Pool Coach: balls detected, table map, coach's pick">
+
 ---
 
 ## Other work
