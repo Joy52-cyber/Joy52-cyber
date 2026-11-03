@@ -34,7 +34,7 @@ I started in QA, where I learned how products break, and customer support, where
 - Used it to find Pool Blast levels that were too hard to win, and suggested fixes
 - Ran it on 8 live games from the Play Store to prove it works on real apps
 
-<img src="img/verdict-dead.jpg" width="600" alt="Verdict showing a dead build and which check failed">
+<img src="img/verdict-checks.jpg" width="600" alt="Verdict Checks page with Pool Blast test cases">
 
 ### 🎱 IRL Pool Coach: AI on Ray-Ban Meta glasses
 
