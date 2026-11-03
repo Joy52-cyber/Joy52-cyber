@@ -51,7 +51,7 @@ Built the computer vision for a pool coaching app at Eyeball Games. It finds eve
 
 ## Other work
 
-- 🎮 **Pool Masters:** owned QA from soft launch to worldwide release on Android and iOS
+- 🎮 **Pool Masters:** owned QA from soft launch to worldwide release on Android and iOS. It became Apple's Game of the Day
 - 📺 **Netflix TV party game:** wrote the spec for using your phone as the controller: joining by QR code, host and guest roles, and team play for up to 4 players. Playtested it and got fixes into the final game
 
 ## Tools I use
